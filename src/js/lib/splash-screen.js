@@ -1,0 +1,4 @@
+
+const splashScreen = (ctx) => {
+
+};
